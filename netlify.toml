@@ -1,0 +1,3 @@
+[build]
+  publish = "dist/frontend"
+  command = "ng build --prod"
